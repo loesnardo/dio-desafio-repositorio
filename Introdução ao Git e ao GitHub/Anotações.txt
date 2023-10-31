@@ -1,0 +1,9 @@
+Git Bash é um ambiente de linha de comando para o sistema de controle de versão Git. O Git é uma ferramenta amplamente utilizada para rastrear as mudanças em projetos de software 
+e colaborar em equipe. O Git Bash é uma interface que permite aos usuários interagir com o Git usando comandos de texto no estilo de um terminal ou shell.
+
+O Git Bash é especialmente útil em sistemas operacionais Windows, onde o ambiente de linha de comando nativo é o Prompt de Comando, mas o Git Bash fornece uma experiência de linha
+ de comando semelhante à de sistemas Unix, o que muitos desenvolvedores acham mais familiar e poderoso.
+
+Através do Git Bash, os usuários podem executar uma variedade de comandos Git para clonar repositórios, rastrear mudanças, criar branches, fazer commits, resolver conflitos e muito mais. 
+Além disso, o Git Bash permite que os desenvolvedores usem ferramentas de linha de comando padrão do Unix, como o Bash, o SSH e outras, tornando-o uma escolha popular para desenvolvedores 
+que trabalham em ambientes Windows, mas desejam uma experiência de linha de comando mais flexível e familiar.
